@@ -60,6 +60,14 @@
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
       }
+    },
+     {
+      "Name": "Jaap",
+      "Description": "Need description !!!.",
+      "ImageUrl": "~/images/jaap.png",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
     }
   ],
   "Sponsors": [
