@@ -45,6 +45,14 @@
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
       }
     },
+     {
+      "Name": "Jaap",
+      "Description": "Netherlands - CDM MVP. As a consultant Jaap assists clients by creating infrastructure designs, performing migrations and building computer platforms primarily Microsoft.",
+      "ImageUrl": "~/images/jaap.png",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
     {
       "Name": "Senthamil Selvan",
       "Description": "Microsoft Windows Dev MVP",
@@ -60,15 +68,7 @@
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
       }
-    },
-     {
-      "Name": "Jaap",
-      "Description": "Netherlands - CDM MVP. As a consultant Jaap assists clients by creating infrastructure designs, performing migrations and building computer platforms primarily Microsoft.",
-      "ImageUrl": "~/images/jaap.png",
-      "Social": {
-        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
-      }
-    }
+    }    
   ],
   "Sponsors": [
 
