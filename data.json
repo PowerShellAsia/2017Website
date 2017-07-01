@@ -7,7 +7,7 @@
   },
   "Social": {
     "Meetup": "http://www.meetup.com/mssgug/",
-    "Facebook": "https://www.facebook.com/"
+    "Facebook": "https://www.facebook.com/singaporepowershell/"
   },
   "Callout": {
     "Text": "RSVP in waiting list today!",
@@ -63,7 +63,7 @@
     },
     {
       "Name": "Sebastian Szumigalski",
-      "Description": "Microsoft MVP. With passion for automation and new Technology’s. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
+      "Description": "Microsoft CDM MVP. With passion for automation and new Technology’s. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
       "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
