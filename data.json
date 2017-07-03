@@ -47,10 +47,12 @@
     },
      {
       "Name": "Jaap",
-      "Description": "Netherlands - CDM MVP. As a consultant Jaap assists clients by creating infrastructure designs, performing migrations and building computer platforms primarily Microsoft.",
+      "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
       "ImageUrl": "~/images/jaap.png",
       "Social": {
-        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+        "Blog": "jaapbrasser.com",
+        "Twitter":"twitter.com/jaap_brasser",
+        "Github":"github.com/jaapbrasser"
       }
     },
     {
