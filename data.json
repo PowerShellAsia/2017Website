@@ -23,7 +23,7 @@
   "Organizers": [
     {
       "Name": "Benjamin Hodge",
-      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the world’s best Security and Network Start-ups.",
+      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the worlds best Security and Network Start-ups.",
       "ImageUrl": "~/images/ben.jpg",
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
@@ -65,10 +65,11 @@
     },
     {
       "Name": "Sebastian Szumigalski",
-      "Description": "Microsoft CDM MVP. With passion for automation and new Technology’s. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
+      "Description": "Microsoft CDM MVP. With passion for automation and new Technologys. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
       "ImageUrl": "~/images/sebs.png",
       "Social": {
-        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+        "Blog": "szumigalski.com",
+        "Twitter":"twitter.com/szumigalskis",
       }
     }    
   ],
