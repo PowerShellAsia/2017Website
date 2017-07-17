@@ -10,8 +10,8 @@
     "Facebook": "https://www.facebook.com/singaporepowershell/"
   },
   "Callout": {
-    "Text": "RSVP in waiting list today!",
-    "Link": "#",
+    "Text": "Register Now!",
+    "Link": "https://www.eventbrite.sg/e/powershell-conference-asia-2017-tickets-35782546560",
     "Type": "warning"
   },
   "Campaigns": [
@@ -51,7 +51,7 @@
       "ImageUrl": "~/images/jaap.png",
       "Social": {
         "Blog": "jaapbrasser.com",
-        "Twitter":"twitter.com/jaap_brasser",
+        "Twitter":"http://www.twitter.com/jaap_brasser",
         "Github":"github.com/jaapbrasser"
       }
     },
