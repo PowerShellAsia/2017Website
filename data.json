@@ -56,11 +56,12 @@
       }
     },
     {
-      "Name": "Senthamil Selvan",
-      "Description": "Microsoft Windows Dev MVP",
+     "Name": "Senthamil Selvan",
+      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
       "ImageUrl": "~/images/sen.jpg",
       "Social": {
-        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+        "Blog": "altfo.wordpress.com",
+        "Twitter": "twitter.com/altfo"
       }
     },
     {
@@ -79,273 +80,345 @@
   "Prizes": [
 
   ],
-  "Tracks": [
+"Tracks": [
     {
-      "Name": "IOT Track",
+      "Day": "26 October 2017",
+      "Name": "DevOps & Cloud Track",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Registration"
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
         },
         {
           "SessionId": "Common2",
-          "Time": "9:00 AM - 9:30 AM",
-          "Title": "Opening Keynote by Li Jung (L21 Audi)"
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:30 AM - 10:00 AM",
-          "Title": "MVP Introduction by So Young (L21 Audi)",
-          "Speaker": {
-            "Name": "Soyoung Lee",
-            "Description": "Community Program Manager,MVP, RD, Microsoft DX, Korea",
-            "ImageUrl": "~/images/soyoung.jpg"
-          }
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
         },
         {
           "SessionId": "Common4",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Breakout Session"
-        },
-        {
-          "SessionId": "IOT01",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Session 1 - Secure, Maintain and Manage Azure IoT Endpoint",
-          "Speaker": {
-            "Name": "Sakthis Kumar",
-            "Description": "A diverse career spanning 16+ years with rich cross functional experience in the areas of IT Consulting, IT Infrastructure Design, Integration & Implementation, Information Security and Project Management, BCP/DR Implementation in globally spanned environments.",
-            "ImageUrl": "~/images/sak.png"
-          }
-        },
-        {
-          "SessionId": "Common5",
-          "Time": "11:15 AM - 11:30 AM",
-          "Title": "Breakout Session"
-        },
-        {
-          "SessionId": "IOT2",
-          "Time": "11:30 AM - 12:30 PM",
-          "Title": "Session 2 - Machine Learning 101, things you need to know to start 'Learning",
-          "Speaker": {
-            "Name": "Setu Chokshi",
-            "Description": "Setu currently is the Innovation leader for the Nielsen BUY vertical. He is responsible for driving domain differentiated analytics and devises software solutions to problems of high complexity that involve big data, business intelligence, and data analytics. Currently he and his team are involved in the application of machine learning to retail marketing.  ",
-            "ImageUrl": "~/images/setu.png"
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "1:00 PM - 2:00 PM",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "IOT3",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Session 3 - Cortana Intelligence",
-          "Speaker": {
-            "Name": "Pradeep Menon",
-            "Description": "Pradeep is an experienced Data Science and Business Analytics professional with 13+ years of cross industry experience. He has a proven track record of successfully helping organizations to transform through application of business analytics.Currently, Pradeep is working with Microsoft Singapore as a Data Solution Architect (DSA)",
-            "ImageUrl": "~/images/PM.jpg"
-          }
+          "SessionId": "IOT01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "What the heck is Microsoft Graph? and why should I care?"
         },
         {
-          "SessionId": "Common7",
-          "Time": "3:15 PM - 3:30 PM",
-          "Title": "Breakout Session"
+          "SessionId": "IOT2",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "IOT3",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure"
         },
         {
           "SessionId": "IOT4",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "Session 4 - Windows 10 in IoT",
-          "Speaker": {
-            "Name": "Riza Marhaban",
-            "Description": "Riza Marhaban is a Cloud/Software Solution Architect, he is also a Senior Full-Stack .NET Developer and former Microsoft Technical Evangelist at Microsoft Singapore. Riza is a long time 20+ years’ experience in IT, developing on Microsoft Technologies as well as Open Source Software. He loves following disruptive technologies and ideas, the market changes and the fluctuations of technologies. He also likes to talk about it. With a background in Mechanical Engineering that specialize in Robotics, Mechatronics, Automation, he currently also plays around with IoT. ",
-            "ImageUrl": "~/images/riza.jpg",
-            "Social": {
-              "Twitter": "www.twitter.com/rizamarhaban"
-            }
-          }
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again"
         },
         {
           "SessionId": "Common8",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing"
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
         }
       ]
     },
     {
-      "Name": "Developer Track",
+      "Day": "26 October 2017",
+      "Name": "DevOps & Security Track",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Registration"
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
         },
         {
           "SessionId": "Common2",
-          "Time": "9:00 AM - 9:30 AM",
-          "Title": "Opening Keynote by Li Jung (L21 Audi)"
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:30 AM - 10:00 AM",
-          "Title": "MVP Introduction by So Young (L21 Audi)"
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
         },
         {
           "SessionId": "Common4",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Breakout Session"
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
         },
         {
-          "SessionId": "DEV01",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Session 1 - Visual Studio Application Insights",
-          "Speaker": {
-            "Name": "Louis Leong",
-            "Description": "Louis is a Technical Evangelist at Microsoft Singapore working with teams to drive DevOps adoption, agile practices and development of best practices with Visual Studio and Team Services. He has a deep passion for software engineering and has been involved in building enterprise scale applications for years.",
-            "ImageUrl": "~/images/ll.png"
-          }
+          "SessionId": "SEC01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell - Microsoft's Incident Response Language"
         },
         {
-          "SessionId": "Common5",
-          "Time": "11:15 AM - 11:30 AM",
-          "Title": "Breakout Session"
-        },
-        {
-          "SessionId": "DEV02",
-          "Time": "11:30 AM - 12:30 PM",
-          "Title": "Session 2 - Mobile App Debugging – Hockey App",
-          "Speaker": {
-            "Name": "Senthamil Selvan",
-            "Description": "Senthamil Selvan is a Microsoft MVP on the Windows App Development. He had developed several apps for mobile and tablet in Windows platform. He has very good working experience on Azure App services and Mobile development. Below are some of his apps deployed to Windows store.",
-            "ImageUrl": "~/images/ss.jpg",
-            "Social": {
-              "Twitter": "www.twitter.com/altfo",
-              "Website": "www.altfo.wordpress.com"
-            }
-          }
+          "SessionId": "SEC02",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Secure your environment by automation"
         },
         {
           "SessionId": "Common6",
-          "Time": "1:00 PM - 2:00 PM",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Automating any tasks with Powershell and Friendly"
+        },
+        {
+          "SessionId": "SEC04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Hybrid Lab Automation with AutomatedLab"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    },
+    {
+      "Day": "26 October 2017",
+      "Name": "General Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell classes?"
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Knock, knock, knock - Linux at your door"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Dependencies, how to make them evident"
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Working Faster & Smarter with PowerShell"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    }
+  ],
+
+  "Tracks2": [
+    {
+      "Day": "27 October 2017",
+      "Name": "DevOps & Cloud Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "DEV01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell on IoT"
+        },
+        {
+          "SessionId": "DEV02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Creating PowerShell cmdlets"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "DEV03",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Session 3 - iOS Development with Xamarin",
-          "Speaker": {
-            "Name": "Arul",
-            "Description": "Influencer",
-            "ImageUrl": "~/images/unknown.jpg"
-          }
-        },
-        {
-          "SessionId": "Common7",
-          "Time": "3:15 PM - 3:30 PM",
-          "Title": "Breakout Session"
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Core, Containers and Performance Graphics"
         },
         {
           "SessionId": "DEV04",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "Session 4 - .Net Core",
-          "Speaker": {
-            "Name": "Justin Lee",
-            "Description": "Over 12 years of community engagement experience comprising of building user groups from ground up, mentoring students, judging competitions, organizing community events, enabling the hacker community and attending various developer community events. His role as a software development consultant for the past 8 years involves meeting with clients, gathering requirements, architecting and proposing solutions, managing projects and teams of developers, developing and testing software solutions, and delivering projects on time and on budget.",
-            "ImageUrl": "~/images/jl.png"
-          }
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "PowerShell with Azure iOT Hub"
         },
         {
-          "SessionId": "Common8",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing"
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
         }
       ]
     },
     {
-      "Name": "IT Pro Track",
+      "Day": "27 October 2017",
+      "Name": "DevOps & Security Track",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Registration"
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "SEC01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Security - All you need to know"
+        },
+        {
+          "SessionId": "SEC02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Automated Offensive PowerShell APIness"
         },
         {
           "SessionId": "Common2",
-          "Time": "9:00 AM - 9:30 AM",
-          "Title": "Opening Keynote by Li Jung (L21 Audi)"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "9:30 AM - 10:00 AM",
-          "Title": "MVP Introduction by So Young (L21 Audi)"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Breakout Session"
-        },
-        {
-          "SessionId": "ITPRO01",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Session 1 - Windows 10 Security - Why it matters",
-          "Speaker": {
-            "Name": "Dennis Chung",
-            "Description": "Dennis is a Senior Technology Strategist in Microsoft Singapore. Dennis has more than 14 years of experience managing enterprise infrastructure, from desktops to servers and networks. He functions as an architecture in enterprise solutions, and also a security advisors to his customers.",
-            "ImageUrl": "~/images/dennis.png"
-          }
-        },
-        {
-          "SessionId": "Common5",
-          "Time": "11:15 AM - 11:30 AM",
-          "Title": "Breakout Session"
-        },
-        {
-          "SessionId": "ITPRO02",
-          "Time": "11:30 AM - 12:30 PM",
-          "Title": "Session 2 - Design Highly Salable Skype for Business Infrastructure",
-          "Speaker": {
-            "Name": "Triston Wan",
-            "Description": "Triston Wan is Solution Director with a System Integrator based in Singapore. He is MCSE since year 2005 and have done several implementation on various versions of Exchange Servers & Skype for Business Servers (formerly known as Lync Server). He is also Redhat Certified Engineer on EL4.",
-            "ImageUrl": "~/images/triston.png"
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "1:00 PM - 2:00 PM",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "ITPRO03",
+          "SessionId": "SEC03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Automated DC Deployment at the BMW Group"
+        },
+        {
+          "SessionId": "SEC04",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Session 3 - Office365 CloudPBX and Hybrid Voice Deployment",
-          "Speaker": {
-            "Name": "Brennon Kwok",
-            "Description": "Brennon Kwok is a senior UC Solution Architect at Polycom Asia Pacific Pte Ltd. His primary expertise is in Microsoft UC technologies including Office365, Skype for Business, Lync2013/2010, OCS2007R2 and Exchange. Brennon has over 8 years’ experience in UC solutions and architecture. Brennon is a Skype for Business MVP (Microsoft Most Valuable Professional) and has spoken at numerous technical events and seminars such as TechEd and Community Technology Updates. Brennon holds a bachelor’s degree in Electrical & Electronics Engineering (Hons) from Nanyang Technological University and is a MCITP for Lync and MCP for Exchange.",
-            "ImageUrl": "~/images/brennon.png"
-          }
+          "Title": "Meta PowerShell - Just A Layer of Convenience"
         },
         {
-          "SessionId": "Common7",
-          "Time": "3:15 PM - 3:30 PM",
-          "Title": "Breakout Session"
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
         },
         {
-          "SessionId": "ITPRO04",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "Session 4 - Azure Automation, The Ninja Cookbook",
-          "Speaker": {
-            "Name": "Milton Goh",
-            "Description": "Milton Goh breathes Technology Day and Night and is absolutely a Technology Geek. Presently, he works as a Regional Technical Consultant for Condeco where he helps organization increase Productivity and Efficiency in their Workspace using Technology Software. Milton is also a Microsoft MVP in the Cloud and Datacenter Management where he loves to meddle with Microsoft Azure and PowerShell. He started advocating DevOps during his time in Dimension Data and all the way to the time spent in VMware as a Regional Implementation Consultant. If you have any questions about automation, he is the right guy to speak to!",
-            "ImageUrl": "~/images/milton.png"
-          }
+          "SessionId": "SEC05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment"
         },
         {
-          "SessionId": "Common8",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing"
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "27 October 2017",
+      "Name": "PowerShell Insider Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Kickoff session Day 2"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "vSphereDSC - resources for a foreign environment"
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Infrastructure validation using Pester"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks"
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Yo Bro! Do you even Parameterize?"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "SQL Server Loves PowerShell - dbatools"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
         }
       ]
     }
-  ]
+  ]  
 }
