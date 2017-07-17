@@ -60,8 +60,8 @@
       "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
       "ImageUrl": "~/images/sen.jpg",
       "Social": {
-        "Blog": "altfo.wordpress.com",
-        "Twitter": "twitter.com/altfo"
+        "Blog": "http://altfo.wordpress.com",
+        "Twitter": "http://www.twitter.com/altfo"
       }
     },
     {
@@ -70,7 +70,7 @@
       "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Blog": "szumigalski.com",
-        "Twitter":"twitter.com/szumigalskis",
+        "Twitter":"http://www.twitter.com/szumigalskis",
       }
     }    
   ],
