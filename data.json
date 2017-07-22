@@ -299,7 +299,15 @@
         {
           "SessionId": "DEV04",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "PowerShell with Azure iOT Hub"
+          "Title": "PowerShell with Azure iOT Hub",
+           "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "~/images/sen.jpg",
+            "Social": {
+              "Twitter": "www.twitter.com/altfo"
+            }
+          }
         },
         {
           "SessionId": "Common3",
