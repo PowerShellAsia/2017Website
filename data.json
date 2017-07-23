@@ -174,7 +174,17 @@
         {
           "SessionId": "SEC02",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Secure your environment by automation"
+          "Title": "Secure your environment by automation",
+          "Speaker": {
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "~/images/jaap.jpg",
+            "Social": {
+              "Blog": "jaapbrasser.com",
+              "Twitter":"http://www.twitter.com/jaap_brasser",
+              "Github":"github.com/jaapbrasser"
+            }
+          }
         },
         {
           "SessionId": "Common6",
