@@ -234,12 +234,25 @@
         {
           "SessionId": "SEC03",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Automating any tasks with Powershell and Friendly"
+          "Title": "Automating any tasks with Powershell and Friendly",
+          "Speaker":{
+            "Name":"Tomoya Yamanaka",
+            "Description":"Windows programmer and Japanese IT community Wankuma Alliance Manila director",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/tomoya.png?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/kumo203"
+            }
+          }
         },
         {
           "SessionId": "SEC04",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "Hybrid Lab Automation with AutomatedLab"
+          "Title": "Hybrid Lab Automation with AutomatedLab",
+          "Speaker":{
+            "Name":"Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true"
+          }
         },
         {
           "SessionId": "Common8",
@@ -285,7 +298,15 @@
         {
           "SessionId": "GEN02",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Knock, knock, knock - Linux at your door"
+          "Title": "Knock, knock, knock - Linux at your door",
+          "Speaker":{
+            "Name":"Bartosz Bielawski",
+            "Description":"Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honor of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/bielawb"
+            }
+          }
         },
         {
           "SessionId": "Common6",
@@ -295,12 +316,28 @@
         {
           "SessionId": "GEN03",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Dependencies, how to make them evident"
+          "Title": "Dependencies, how to make them evident",
+          "Speaker":{
+            "Name":"Irwin Strachan",
+            "Description":"",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/IrwinStrachan"
+            }
+          }
         },
         {
           "SessionId": "GEN04",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "Working Faster & Smarter with PowerShell"
+          "Title": "Working Faster & Smarter with PowerShell",
+          "Speaker":{
+            "Name":"Desmond Lee",
+            "Description":"Desmond LEE specializes in end-to-end enterprise infrastructure and innovative cloud solutions built around proven business processes, effective project team management and people integration across all C*-levels and various industries worldwide. Based in Zürich (Switzerland), he is recognized as a Microsoft Most Valuable Professional (MVP Office Servers & Services*) for his dedicated passion and volunteer work in the IT community. Desmond holds a Msc. from University College London (UCL) and is a SVEB certified trainer, coach and founder of the Swiss IT Pro User Group (www.swissitpro.ch), an independent, non-profit organization for IT Pros by IT Pros championing Microsoft and related technologies. An established speaker at major international and regional events known for his real-world insights with over 2 decades of hands-on experience, Desmond contributes frequently to several highly rated publications and often engages in popular Microsoft public forums/newsgroups. You can follow his IT adventures at www.leedesmond.com.* formally MVP Skype for Business / Lync Server",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/_leedesmond"
+            }
+          }
         },
         {
           "SessionId": "Common8",
@@ -329,12 +366,28 @@
         {
           "SessionId": "DEV01",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell on IoT"          
+          "Title": "PowerShell on IoT",
+          "Speaker":{
+            "Name":"Rakesh Karthik Kethineedi",
+            "Description":"I am an automation expert, working on PowerShell for over 8 years. During my 10 year automation career, I have saved over a million man hours through automation. I have used PowerShell not just for automation on Server Infrastructure management, but also for UI test automation. I am currently working for Robert Bosch, Singapore, helping with the buildup of their IoT cloud platform.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/rakeshkarthikk"
+            }
+          }          
         },
         {
           "SessionId": "DEV02",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "Creating PowerShell cmdlets"
+          "Title": "Creating PowerShell cmdlets",
+          "Speaker":{
+            "Name":"Rakesh Karthik Kethineedi",
+            "Description":"I am an automation expert, working on PowerShell for over 8 years. During my 10 year automation career, I have saved over a million man hours through automation. I have used PowerShell not just for automation on Server Infrastructure management, but also for UI test automation. I am currently working for Robert Bosch, Singapore, helping with the buildup of their IoT cloud platform.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/rakeshkarthikk"
+            }
+          } 
         },
         {
           "SessionId": "Common2",
@@ -344,7 +397,15 @@
         {
           "SessionId": "DEV03",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "Core, Containers and Performance Graphics"
+          "Title": "Core, Containers and Performance Graphics",
+          "Speaker":{
+            "Name":"Luc Dekens",
+            "Description":"Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/LucD22"
+            }
+          }
         },
         {
           "SessionId": "DEV04",
@@ -367,7 +428,15 @@
         {
           "SessionId": "DEV05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules"
+          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules",
+          "Speaker":{
+            "Name":"Fabien Dibot",
+            "Description":"Azure architect @ Orange Business Services, i'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. i'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/fdibot"
+            }
+          }
         },
         {
           "SessionId": "Common4",
@@ -388,12 +457,28 @@
         {
           "SessionId": "SEC01",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Security - All you need to know"
+          "Title": "PowerShell Security - All you need to know",
+          "Speaker":{
+            "Name":"David das Neves",
+            "Description":"David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties: PowerShell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Beside his work he writes his own blog, organizes the PowerShell UG Munich and speaks at User Groups and Conferences on PS/Dev topics.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/david.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/david_das_neves"
+            }
+          }
         },
         {
           "SessionId": "SEC02",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "Automated Offensive PowerShell APIness"
+          "Title": "Automated Offensive PowerShell APIness",
+          "Speaker":{
+            "Name":"Walter Legowski",
+            "Description":"BIO >> Walter Legowski (@SadProcessor) PowerShell Automation engineer by day Offensive PowerShell toolsmith by night French | Dutch wife | 3 kids Maker | Breaker | Trainer | n00b 4 ever Everything PowerShell...",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/WalterLegowski.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/SadProcessor"
+            }
+          }
         },
         {
           "SessionId": "Common2",
@@ -408,7 +493,15 @@
         {
           "SessionId": "SEC04",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Meta PowerShell - Just A Layer of Convenience"
+          "Title": "Meta PowerShell - Just A Layer of Convenience",
+          "Speaker":{
+            "Name":"Mathias R. Jessen",
+            "Description":"Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/mathias.jpeg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/iisresetme"
+            }
+          }
         },
         {
           "SessionId": "Common3",
@@ -439,12 +532,28 @@
         {
           "SessionId": "GEN01",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "vSphereDSC - resources for a foreign environment"
+          "Title": "vSphereDSC - resources for a foreign environment",
+          "Speaker":{
+            "Name":"Luc Dekens",
+            "Description":"Luc has been a speaker at multiple VMworlds (US and EMEA).He also presented at the PowerShell and DevOps Summit, the PSConfEU, Tuga IT and several VMUGs in Europe. Luc is a co-author of the PowerCLI Reference ed 1 & 2",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/LucD22"
+            }
+          }
         },
         {
           "SessionId": "GEN02",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "Infrastructure validation using Pester"
+          "Title": "Infrastructure validation using Pester",
+          "Speaker":{
+            "Name":"Irwin Strachan",
+            "Description":"",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/IrwinStrachan"
+            }
+          }
         },
         {
           "SessionId": "Common2",
@@ -454,12 +563,28 @@
         {
           "SessionId": "GEN03",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks"
+          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks",
+          "Speaker":{
+            "Name":"Bartosz Bielawski",
+            "Description":"Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honor of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/bielawb"
+            }
+          }
         },
         {
           "SessionId": "GEN04",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Yo Bro! Do you even Parameterize?"
+          "Title": "Yo Bro! Do you even Parameterize?",
+          "Speaker":{
+            "Name":"Walter Legowski",
+            "Description":"BIO >> Walter Legowski (@SadProcessor) PowerShell Automation engineer by day Offensive PowerShell toolsmith by night French | Dutch wife | 3 kids Maker | Breaker | Trainer | n00b 4 ever Everything PowerShell...",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/WalterLegowski.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/SadProcessor"
+            }
+          }
         },
         {
           "SessionId": "Common3",
@@ -469,7 +594,15 @@
         {
           "SessionId": "GEN05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "SQL Server Loves PowerShell - dbatools"
+          "Title": "SQL Server Loves PowerShell - dbatools",
+          "Speaker":{
+            "Name":"Rob Sewell",
+            "Description":"",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/RobSewell.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/sqldbawithbeard"
+            }
+          }
         },
         {
           "SessionId": "Common4",
