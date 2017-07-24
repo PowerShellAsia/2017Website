@@ -70,7 +70,7 @@
       "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Blog": "szumigalski.com",
-        "Twitter":"http://www.twitter.com/szumigalskis",
+        "Twitter":"http://www.twitter.com/szumigalskis"
       }
     }    
   ],
@@ -185,7 +185,7 @@
           "Title": "Secure your environment by automation",
           "Speaker": {
             "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Jaap.jpg",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Jaap.jpg?raw=true",
             "Name": "Jaap Brasser",
             "Social": {
               "Blog": "jaapbrasser.com",
@@ -446,5 +446,5 @@
         }
       ]
     }
-  ]  
-}
+  ]
+  }
