@@ -156,7 +156,7 @@
           "Speaker": {
             "Name": "Rick Taylor",
             "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defense, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author ( Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team , and was a Senior Consultant on the OpsCon Team. He is a Strategic Consultant with AvePoint's Client Services Division where he specializes in Migration, Compliance, and Governance Enforcement. Rick is an avid Triathlete (Clydesdale class), enjoys playing chess and is active in the Boy Scouts of America.",
-            "ImageUrl":"",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/RickTaylor.jpg?raw=true",
             "Social":{
               
             }
@@ -333,7 +333,7 @@
           "Speaker":{
             "Name":"Desmond Lee",
             "Description":"Desmond LEE specializes in end-to-end enterprise infrastructure and innovative cloud solutions built around proven business processes, effective project team management and people integration across all C*-levels and various industries worldwide. Based in Zürich (Switzerland), he is recognized as a Microsoft Most Valuable Professional (MVP Office Servers & Services*) for his dedicated passion and volunteer work in the IT community. Desmond holds a Msc. from University College London (UCL) and is a SVEB certified trainer, coach and founder of the Swiss IT Pro User Group (www.swissitpro.ch), an independent, non-profit organization for IT Pros by IT Pros championing Microsoft and related technologies. An established speaker at major international and regional events known for his real-world insights with over 2 decades of hands-on experience, Desmond contributes frequently to several highly rated publications and often engages in popular Microsoft public forums/newsgroups. You can follow his IT adventures at www.leedesmond.com.* formally MVP Skype for Business / Lync Server",
-            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/?raw=true",
+            "ImageUrl":"",
             "Social":{
               "Twitter":"http://www.twitter.com/_leedesmond"
             }
