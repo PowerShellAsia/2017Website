@@ -108,12 +108,28 @@
         {
           "SessionId": "IOT01",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "What the heck is Microsoft Graph? and why should I care?"
+          "Title": "What the heck is Microsoft Graph? and why should I care?",
+          "Speaker": {
+            "Name": "Steven Hosking",
+            "Description": "Having spent over 15 years in the IT industry primarily supporting and managing System Centre products, Steven Hosking has continually been proven as passionate subject matter expert. He is the founder of the Sydney System Centre and Infrastructure group, where he leads the community in exploring the Microsoft System Centre suite of products.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/svenvan.jpg?raw=true",
+            "Social": {
+              "Twitter":"http://www.twitter.com/OnPremCloudGuy"
+            }
+          }
         },
         {
           "SessionId": "IOT2",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests"
+          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests",
+          "Speaker": {
+            "Name": "Rob Sewell",
+            "Description":"SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL. He has volunteered and spoken at SQL community in UK and Europe",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/RobSewell.jpg?raw=true",
+            "Social": {
+              "Twitter":"http://www.twitter.com/sqldbawithbeard"
+            }
+          }
         },
         {
           "SessionId": "Common6",
@@ -136,7 +152,15 @@
         {
           "SessionId": "IOT4",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again"
+          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
+          "Speaker": {
+            "Name": "Rick Taylor",
+            "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defense, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author ( Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team , and was a Senior Consultant on the OpsCon Team. He is a Strategic Consultant with AvePoint's Client Services Division where he specializes in Migration, Compliance, and Governance Enforcement. Rick is an avid Triathlete (Clydesdale class), enjoys playing chess and is active in the Boy Scouts of America.",
+            "ImageUrl":"",
+            "Social":{
+              
+            }
+          }
         },
         {
           "SessionId": "Common8",
@@ -177,7 +201,15 @@
         {
           "SessionId": "SEC01",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell - Microsoft's Incident Response Language"
+          "Title": "PowerShell - Microsoft's Incident Response Language",
+          "Speaker":{
+            "Name":"Jared Atkinson",
+            "Description":"Jared Atkinson is the Technical Lead - Adversary Detection for Specter Ops. Before Specter Ops, Jared spent two years with Veris Group’s Adaptive Threat Division and four years leading incident response missions for the U.S. Air Force Hunt Team, detecting and removing Advanced Persistent Threats on Air Force and DoD networks. Passionate about PowerShell and the Open Source community, Jared is the lead developer of the PowerForensics project (an open source forensics framework for PowerShell) and maintains a DFIR focused blog. In addition to being awarded Microsoft “Most Valuable Professional” (MVP) for his work in PowerShell, Jared has spoken at numerous industry conferences including the PowerShell and DevOps Global Summit, PSConfEU, Derbycon, 44CON, SANS DFIRSummit, and BSidesDC.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/JaredAtkinson.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/jaredcatkinson"
+            }
+          }
         },
         {
           "SessionId": "SEC02",
