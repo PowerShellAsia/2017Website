@@ -127,7 +127,7 @@
           "Speaker": {
             "Name": "Fabien Dipot",
             "Description": "Azure architect @ Orange Business Services, I'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. I'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
             "Social": {
                 "Twitter":"http://www.twitter.com/fdibot"
             }
