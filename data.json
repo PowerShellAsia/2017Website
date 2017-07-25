@@ -293,7 +293,15 @@
         {
           "SessionId": "GEN01",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell classes?"
+          "Title": "PowerShell classes?",
+          "Speaker":{
+            "Name":"David das Neves",
+            "Description":"David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties: PowerShell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Beside his work he writes his own blog, organizes the PowerShell UG Munich and speaks at User Groups and Conferences on PS/Dev topics.",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/david.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/david_das_neves"
+            }
+          }
         },
         {
           "SessionId": "GEN02",
