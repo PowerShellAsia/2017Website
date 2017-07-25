@@ -498,7 +498,7 @@
           "Time": "01:00 PM - 02:00 PM",
           "Title": "Automated DC Deployment at the BMW Group",
           "Speaker":{
-            "Name":"Raimund Andrée", "Name":"Jan-Hendrik Peters",
+            "Name":"Raimund Andrée",
             "Description":"Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
             "Social":{
@@ -527,7 +527,15 @@
         {
           "SessionId": "SEC05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment"
+          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment",
+          "Speaker":{
+            "Name":"Raimund Andrée",
+            "Description":"Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/raimundandree"
+            }
+          }
         },
         {
           "SessionId": "Common4",
