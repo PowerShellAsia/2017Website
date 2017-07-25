@@ -496,7 +496,15 @@
         {
           "SessionId": "SEC03",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "Automated DC Deployment at the BMW Group"
+          "Title": "Automated DC Deployment at the BMW Group",
+          "Speaker":{
+            "Name":"Raimund Andrée", "Name":"Jan-Hendrik Peters",
+            "Description":"Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
+            "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
+            "Social":{
+              "Twitter":"http://www.twitter.com/raimundandree"
+            }
+          }
         },
         {
           "SessionId": "SEC04",
