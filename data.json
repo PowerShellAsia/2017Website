@@ -7,7 +7,8 @@
   },
   "Social": {
     "Meetup": "http://www.meetup.com/mssgug/",
-    "Facebook": "https://www.facebook.com/singaporepowershell/"
+    "Facebook": "https://www.facebook.com/singaporepowershell/",
+    "Website" : "mailto:get-help@psconf.org"
   },
   "Callout": {
     "Text": "Register Now!",
