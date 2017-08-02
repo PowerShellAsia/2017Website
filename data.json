@@ -48,7 +48,7 @@
     },
      {
       "Name": "Jaap Brasser",
-      "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+      "Description": "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions.",
       "ImageUrl": "~/images/jaap.png",
       "Social": {
         "Blog": "jaapbrasser.com",
@@ -137,7 +137,7 @@
           "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests",
           "Speaker": {
             "Name": "Rob Sewell",
-            "Description":"SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL. He has volunteered and spoken at SQL community in UK and Europe",
+            "Description":"Rob is a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Data Center MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and Powershell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rob Sewell.png?raw=true",
             "Social": {
               "Twitter":"http://www.twitter.com/sqldbawithbeard"
@@ -168,7 +168,7 @@
           "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
           "Speaker": {
             "Name": "Rick Taylor",
-            "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defense, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author ( Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team , and was a Senior Consultant on the OpsCon Team. He is a Strategic Consultant with AvePoint's Client Services Division where he specializes in Migration, Compliance, and Governance Enforcement. Rick is an avid Triathlete (Clydesdale class), enjoys playing chess and is active in the Boy Scouts of America.",
+            "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defense, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author ( Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team , and was a Senior Consultant on the OpsCon Team. He is a Senior DevOps Engineer where he specializes in Migration, Compliance, Governance Enforcement, and Process Automation. Rick is an avid Triathlete (Clydesdale class), practices Bikram Yoga, enjoys playing chess and is active in the Boy Scouts of America.",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/RickTaylor.jpg?raw=true",
             "Social":{
               
@@ -229,7 +229,7 @@
           "Time": "2:15 PM - 3:15 PM",
           "Title": "Secure your environment by automation",
           "Speaker": {
-            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "Description": "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions.",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Jaap.jpg?raw=true",
             "Name": "Jaap Brasser",
             "Social": {
@@ -390,7 +390,7 @@
           "Title": "PowerShell on IoT",
           "Speaker":{
             "Name":"Rakesh Karthik Kethineedi",
-            "Description":"I am an automation expert, working on PowerShell for over 8 years. During my 10 year automation career, I have saved over a million man hours through automation. I have used PowerShell not just for automation on Server Infrastructure management, but also for UI test automation. I am currently working for Robert Bosch, Singapore, helping with the buildup of their IoT cloud platform.",
+            "Description":"Rakesh has been automating things for almost a decade. He is a developer-cum-scripting guy who loves PowerShell, IoT and Automation on the Cloud. He has worked on various technologies and driven number of Automation projects spreading across domains like Server Administration and Software Testing. He believes in adding quality to people's lives through automation. He is a co-organiser of Singapore Veeam User Group.",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
             "Social":{
               "Twitter":"http://www.twitter.com/rakeshkarthikk"
@@ -403,7 +403,7 @@
           "Title": "Creating PowerShell cmdlets",
           "Speaker":{
             "Name":"Rakesh Karthik Kethineedi",
-            "Description":"I am an automation expert, working on PowerShell for over 8 years. During my 10 year automation career, I have saved over a million man hours through automation. I have used PowerShell not just for automation on Server Infrastructure management, but also for UI test automation. I am currently working for Robert Bosch, Singapore, helping with the buildup of their IoT cloud platform.",
+            "Description":"Rakesh has been automating things for almost a decade. He is a developer-cum-scripting guy who loves PowerShell, IoT and Automation on the Cloud. He has worked on various technologies and driven number of Automation projects spreading across domains like Server Administration and Software Testing. He believes in adding quality to people's lives through automation. He is a co-organiser of Singapore Veeam User Group.",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
             "Social":{
               "Twitter":"http://www.twitter.com/rakeshkarthikk"
@@ -634,7 +634,7 @@
           "Title": "SQL Server Loves PowerShell - dbatools",
           "Speaker":{
             "Name":"Rob Sewell",
-            "Description":"Rob is a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL (PaaS geddit?). He has volunteered and spoken at SQL community events through the UK and Europe and is a member of the committee that organises SQL Saturday Exeter. He is a proud supporter of the SQL and Powershell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard.",
+            "Description":"Rob is a SQL Server DBA with a passion for Powershell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Data Center MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and Powershell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
             "ImageUrl":"https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rob Sewell.png?raw=true",
             "Social":{
               "Twitter":"http://www.twitter.com/sqldbawithbeard"
