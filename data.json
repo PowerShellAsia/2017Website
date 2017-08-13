@@ -310,7 +310,7 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "GEN01",
+          "SessionId": "MGT01",
           "Time": "01:00 PM - 02:00 PM",
           "Title": "",
           "Speaker": {
@@ -323,7 +323,7 @@
           }
         },
         {
-          "SessionId": "GEN02",
+          "SessionId": "MGT02",
           "Time": "2:15 PM - 3:15 PM",
           "Title": "",
           "Speaker": {
@@ -341,7 +341,7 @@
           "Title": "Break"
         },
         {
-          "SessionId": "GEN03",
+          "SessionId": "MGT03",
           "Time": "4:00 PM - 5:00 PM",
           "Title": "",
           "Speaker": {
@@ -354,7 +354,7 @@
           }
         },
         {
-          "SessionId": "GEN04",
+          "SessionId": "MGT04",
           "Time": "5:15 PM - 6:15 PM",
           "Title": "",
           "Speaker": {
