@@ -287,6 +287,99 @@
     },
     {
       "Day": "27 October 2017",
+      "Name": "Configuration Management",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Opening Session PowerShell Team"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "PowerShell Product Team"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "6:15 PM - 6:30 PM",
+          "Title": "Day Close-up"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "6:30 PM - 10:00 PM",
+          "Title": "Networking Event - FREE BEER!!"
+        }
+      ]
+    },
+    {
+      "Day": "27 October 2017",
       "Name": "General Track",
       "Sessions": [
         {
