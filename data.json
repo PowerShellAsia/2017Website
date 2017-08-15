@@ -48,7 +48,7 @@
     },
     {
       "Name": "Sebastian Szumigalski",
-      "Description": "Microsoft Cloud and Datacenter MVP. With passion for automation and new Technologies. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon",
+      "Description": "Microsoft Cloud and Datacenter MVP. With passion for automation and new Technologies. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon.",
       "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Blog": "szumigalski.com",
@@ -157,15 +157,15 @@
           "Title": "Break"
         },
         {
-          "SessionId": "IOT3",
+          "SessionId": "IOT03",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure",
+          "Title": "Designing azure Resource Manager Templates",
           "Speaker": {
-            "Name": "Fabien Dipot",
-            "Description": "Azure architect @ Orange Business Services, I'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. I'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
+            "Name": "Ritesh Modi ",
+            "Description": "",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Ritesh Modi.jpg?raw=true",
             "Social": {
-                "Twitter": "http://www.twitter.com/fdibot"
+              "Twitter": "http://www.twitter.com/automationnext"
             }
           }
         },
@@ -178,7 +178,7 @@
             "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defence, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author (Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team, and was a Senior Consultant on the OpsCon Team. He is a Senior DevOps Engineer where he specializes in Migration, Compliance, Governance Enforcement, and Process Automation. Rick is an avid Triathlete (Clydesdale class), practices Bikram Yoga, enjoys playing chess and is active in the Boy Scouts of America.",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/RickTaylor.jpg?raw=true",
             "Social": {
-              
+              "Twitter": "http://www.twitter.com/slkrck"
             }
           }
         },
@@ -271,7 +271,10 @@
           "Speaker":{
             "Name": "Jan-Hendrik Peters",
             "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true"
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/NyanHP"
+            }
           }
         },
         {
@@ -313,13 +316,13 @@
         {
           "SessionId": "MGT01",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "",
+          "Title": "Infrastructure as Code with Chef, Visual Studio Team Services and Azure",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Stuart Preston",
+            "Description": "Stuart works at Chef focusing on the Microsoft ecosystem. Over a career spanning two decades he has helped enterprises of all shapes and sizes build scalable systems on the Microsoft platform. Stuart is a keen supporter of Chef and Microsoft Azure via his open-source contributions and he has also written a book 'Using Chef with Microsoft Azure.' He was awarded the Microsoft MVP (Azure) and Awesome Community Chef awards in 2016.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Stuart Preston.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/stuartpreston"
             }
           }
         },
@@ -344,13 +347,13 @@
         {
           "SessionId": "MGT03",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "",
+          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Fabien Dibot",
+            "Description": "Azure architect @ Orange Business Services, I'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. I'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+                "Twitter": "http://www.twitter.com/fdibot"
             }
           }
         },
@@ -669,13 +672,13 @@
         {
           "SessionId": "MGT01",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "",
+          "Title": "vSphereDSC - resources for a foreign environment",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Luc Dekens",
+            "Description": "Luc has been a speaker at multiple VMworlds (US and EMEA).He also presented at the PowerShell and DevOps Summit, the PSConfEU, Tuga IT and several VMUGs in Europe. Luc is a co-author of the PowerCLI Reference ed 1 & 2",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/LucD22"          
             }
           }
         },
@@ -760,13 +763,13 @@
         {
           "SessionId": "GEN01",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "vSphereDSC - resources for a foreign environment",
+          "Title": "Supercharge Azure Functions with PowerShell",
           "Speaker": {
-            "Name": "Luc Dekens",
-            "Description": "Luc has been a speaker at multiple VMworlds (US and EMEA).He also presented at the PowerShell and DevOps Summit, the PSConfEU, Tuga IT and several VMUGs in Europe. Luc is a co-author of the PowerCLI Reference ed 1 & 2",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
+            "Name": "Ritesh Modi",
+            "Description": "",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Ritesh Modi.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/LucD22"
+              "Twitter": "http://www.twitter.com/automationnext"
             }
           }
         },
