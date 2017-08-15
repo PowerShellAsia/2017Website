@@ -426,7 +426,7 @@
           "Speaker": {
             "Name": "Bartosz Bielawski",
             "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
+            "ImageUrl": "~/images/Bartek.png",
             "Social": {
               "Twitter": "http://www.twitter.com/bielawb"
             }
@@ -798,7 +798,7 @@
           "Speaker": {
             "Name": "Bartosz Bielawski",
             "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
+            "ImageUrl": "~/images/Bartek.png",
             "Social": {
               "Twitter": "http://www.twitter.com/bielawb"
             }
