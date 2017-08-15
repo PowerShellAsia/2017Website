@@ -49,7 +49,7 @@
     {
       "Name": "Sebastian Szumigalski",
       "Description": "Microsoft Cloud and Datacenter MVP. With passion for automation and new Technologies. Helping to drive PowerShell community in Asia. Owner of PowerShell User Group in Manila and Yangon.",
-      "ImageUrl": "~/images/sebastian.png",
+      "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Blog": "szumigalski.com",
         "Twitter": "http://www.twitter.com/szumigalskis"
@@ -426,7 +426,7 @@
           "Speaker": {
             "Name": "Bartosz Bielawski",
             "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
-            "ImageUrl": "~/images/Bartek.png",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/bielawb"
             }
@@ -798,7 +798,7 @@
           "Speaker": {
             "Name": "Bartosz Bielawski",
             "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
-            "ImageUrl": "~/images/Bartek.png",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/bielawb"
             }
