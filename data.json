@@ -718,11 +718,11 @@
           "Time": "2:15 PM - 3:15 PM",
           "Title": "SQLServer Reporting Services administration new best friend - PowerShell",
           "Speaker": {
-            "Name": "Steven Murawski",
-            "Description": "",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/stevenmurawski.jpg?raw=true",
+            "Name": "Cláudio Silva",
+            "Description": "Cláudio works as SQL Server DBA and he is an PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He was the first major contributor on dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms. Cláudio co-leads PASS Portuguese Virtual Group and he helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Cláudio Silva.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/StevenMurawski"
+              "Twitter": "http://www.twitter.com/ClaudioESSilva"
             }
           }
         },
