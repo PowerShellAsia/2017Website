@@ -121,13 +121,13 @@
         {
           "SessionId": "Common2",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell State & Futures: Technology you can bet on",
+          "Title": "Automate & Configure at scale with Azure Management Services",
           "Speaker": {
-            "Name": "Angel Calvo",
-            "Description": "Microsoft Director of Program Management for Azure Automation & Config Management - Community Lead for PowerShell OSS projects",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Angel.jpg?raw=true",
+            "Name": "Michael Greene",
+            "Description": "Microsoft Principal Program Manager, Azure Configuration and Automation Management System / PowerShell Language",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/greene.jpeg?raw=true",
             "Social":{
-              "Twitter": "http://www.twitter.com/ANGELCALVOS"
+              "Twitter": "http://www.twitter.com/migreene"
             }
           }
         },
