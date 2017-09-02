@@ -123,7 +123,7 @@
           "Time": "9:45 AM - 10:45 AM",
           "Title": "PowerShell State & Futures: Technology you can bet on",
           "Speaker": {
-            "Name": "Angel Calvo & Michael Greene",
+            "Name": "Angel Calvo",
             "Description": "Microsoft Director of Program Management for Azure Automation & Config Management - Community Lead for PowerShell OSS projects",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Angel.jpg?raw=true",
             "Social":{
@@ -136,7 +136,7 @@
           "Time": "11:00 AM - 11:45 AM",
           "Title": "PowerShell 6, Community Platform for Hybrid Cloud",
           "Speaker":{
-            "Name": "Steve Lee & Joey Aiello"
+            "Name": "Steve Lee"
           }
         },
         {
