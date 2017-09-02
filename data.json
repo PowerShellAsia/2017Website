@@ -131,15 +131,6 @@
             }
           }
         },
-        {"Speaker":{
-          "Name": "Michael Greene",
-          "Description": "",
-          "ImageUrl":"",
-          "Social":{
-            "Twitter": ""
-          }    
-        }
-      },
         {
           "SessionId": "Common3",
           "Time": "11:00 AM - 11:45 AM",
