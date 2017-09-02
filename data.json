@@ -132,11 +132,6 @@
           }
         },
         {
-          "Speaker":{
-            "Name": "Michael Greene"
-          }
-        },
-        {
           "SessionId": "Common3",
           "Time": "11:00 AM - 11:45 AM",
           "Title": "PowerShell 6, Community Platform for Hybrid Cloud",
