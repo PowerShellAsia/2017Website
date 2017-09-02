@@ -136,7 +136,12 @@
           "Time": "11:00 AM - 11:45 AM",
           "Title": "PowerShell 6, Community Platform for Hybrid Cloud",
           "Speaker":{
-            "Name": "Steve Lee"
+            "Name": "Steve Lee",
+            "Description": "Principal Software Engineer Manager for PowerShell",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/stevelee.jpg?raw=true",
+            "Social":{
+              "Twitter": "http://www.twitter.com/Steve_MSFT"
+            }
           }
         },
         {
