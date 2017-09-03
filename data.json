@@ -353,13 +353,13 @@
         {
           "SessionId": "MGT02",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Breakout session",
+          "Title": "Infrastructure validation using Pester",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Irwin Strachan",
+            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },
@@ -464,19 +464,6 @@
         {
           "SessionId": "GEN03",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Dependencies, how to make them evident",
-          "Speaker":{
-            "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
-            }
-          }
-        },
-        {
-          "SessionId": "GEN04",
-          "Time": "5:15 PM - 6:15 PM",
           "Title": "Working Faster & Smarter with PowerShell",
           "Speaker": {
             "Name": "Desmond Lee",
@@ -484,6 +471,20 @@
             "ImageUrl": "",
             "Social": {
               "Twitter": "http://www.twitter.com/_leedesmond"
+          
+            }
+          }
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Dependencies, how to make them evident",
+          "Speaker": {
+            "Name": "Irwin Strachan",
+            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/IrwinStrachan"
             }
           }
         },
@@ -512,7 +513,7 @@
           "Title": "Slow is Smooth, Smooth is Fast",
           "Speaker":{
             "Name": "Steven Murawski",
-            "Description": "Steven is a Cloud Developer Advocate at Microsoft. Steven focuses on DevOps scenarios with Azure (and founding member of the League of Extraordinary Cloud DevOps Advocates). Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects, including Chef, Habitat, and Test-Kitchen. Steven followed the traditional path to IT. For8 years he owned a garden center, flower shop and landscape business. From there, Steven went back to school for Police Science, while working as a police clerk, dispatcher, and auxiliary officer. At the police department, Steven got into IT by helping to administer the domain and applications, as well as supporting investigations via forensicly examining electronic media and providing technical support. Most recently, Steven was a Prinicipal Engineer at Chef and worked on the Community Engineering team. He helped foster new contributions and contributors to open source projects in the Chef space, as well as contributing to those projects himself. Steven also worked with the community and customers, answering questions, offering architectual and process advice, and helping move people down the DevOps path. Steven was a Micrososoft MVP in Cloud and Datacenter Management (previously PowerShell) from January2012 through June2017, when he started work at Microsoft as a Cloud Developer Advocate.",
+            "Description": "Steven is a Cloud Developer Advocate at Microsoft. Steven focuses on DevOps scenarios with Azure (and founding member of the League of Extraordinary Cloud DevOps Advocates). Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects, including Chef, Habitat, and Test-Kitchen. Steven followed the traditional path to IT. For8 years he owned a garden center, flower shop, and landscape business. From there, Steven went back to school for Police Science, while working as a police clerk, dispatcher, and auxiliary officer. At the police department, Steven got into IT by helping to administer the domain and applications, as well as supporting investigations via forensically examining electronic media and providing technical support. Most recently, Steven was a Principal Engineer at Chef and worked on the Community Engineering team. He helped foster new contributions and contributors to open source projects in the Chef space, as well as contributing to those projects himself. Steven also worked with the community and customers, answering questions, offering architectural and process advice, and helping move people down the DevOps path. Steven was a Microsoft MVP in Cloud and Datacenter Management (previously PowerShell) from January 2012 through June 2017, when he started work at Microsoft as a Cloud Developer Advocate.",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/stevenmurawski.jpg?raw=true",
             "Social":{
               "Twitter": "http://www.twitter.com/StevenMurawski"
@@ -717,13 +718,13 @@
         {
           "SessionId": "MGT02",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "Infrastructure validation using Pester",
+          "Title": "SQL Server Extended Events – What are you waiting for?",
           "Speaker":{
             "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
+            "Description": "Jonathan started working with SQL Server in the 20th Century and has worked as a DBA supporting all versions since version 7. He is now a SQL Server PFE working for Microsoft UK working with Premier customers on proactive and reactive cases. In his spare time Jonathan helps run the SQL South West user group (www.sqlsouthwest.co.uk), the Exeter SQL Saturday and the SQLBits (www.sqlbits.com) annual conferences.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JonathanAllen.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
+              "Twitter": "http://www.twitter.com/fatherjack"
             }
           }
         },
@@ -735,13 +736,13 @@
         {
           "SessionId": "MGT03",
           "Time": "01:00 PM - 02:00 PM",
-          "Title": "",
+          "Title": "SQL Server Cross-platform with PowerShell (core) and Python",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Maximo Trinidad",
+            "Description": "Maximo Trinidad (Florida Aka – Mr. PowerShell) is from Puerto Rico living in Florida, has been working with SAPIEN products since early releases of PrimalScript, through the current suite of SAPIEN products.  He has been using, speaking, tweeting and blogging about Windows PowerShell since its initial release in 2006. He's Microsoft MVP in Cloud and Datacenter Management (PowerShell 9rs), SAPIEN Technologies MVP, and IDERA ACE(2017). He speaks in SQLSaturday, and .NET Camp events around the Florida’s State.  Currently working with SAPIENS Technologies as their Technical Evangelist for their PowerShell and Scripting Tools line of products.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/MaximoTrinidad.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
             }
           }
         },
