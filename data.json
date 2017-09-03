@@ -225,17 +225,17 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team"
+          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
         },
         {
           "SessionId": "Common2",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
+          "Title": "Automate & Configure at scale with Azure Management Services"
         },
         {
           "SessionId": "Common3",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell Product Team"
+          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
         },
         {
           "SessionId": "Common4",
@@ -320,17 +320,17 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team"
+          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
         },
         {
           "SessionId": "Common2",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
+          "Title": "Automate & Configure at scale with Azure Management Services"
         },
         {
           "SessionId": "Common3",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell Product Team"
+          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
         },
         {
           "SessionId": "Common4",
@@ -413,17 +413,17 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Opening Session PowerShell Team"
+          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
         },
         {
           "SessionId": "Common2",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "PowerShell Product Team"
+          "Title": "Automate & Configure at scale with Azure Management Services"
         },
         {
           "SessionId": "Common3",
           "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell Product Team"
+          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
         },
         {
           "SessionId": "Common4",
@@ -609,7 +609,7 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
+          "Title": "Slow is Smooth, Smooth is Fast"
         },
         {
           "SessionId": "SEC01",
@@ -700,7 +700,7 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
+          "Title": "Slow is Smooth, Smooth is Fast"
         },
         {
           "SessionId": "MGT01",
@@ -791,7 +791,7 @@
         {
           "SessionId": "Common1",
           "Time": "8:30 AM - 9:30 AM",
-          "Title": "Kickoff session Day 2"
+          "Title": "Slow is Smooth, Smooth is Fast"
         },
         {
           "SessionId": "GEN01",
