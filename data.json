@@ -720,7 +720,7 @@
           "Time": "11:00 AM - 12:00 PM",
           "Title": "SQL Server Extended Events – What are you waiting for?",
           "Speaker":{
-            "Name": "Irwin Strachan",
+            "Name": "Jonathan Allen",
             "Description": "Jonathan started working with SQL Server in the 20th Century and has worked as a DBA supporting all versions since version 7. He is now a SQL Server PFE working for Microsoft UK working with Premier customers on proactive and reactive cases. In his spare time Jonathan helps run the SQL South West user group (www.sqlsouthwest.co.uk), the Exeter SQL Saturday and the SQLBits (www.sqlbits.com) annual conferences.",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JonathanAllen.jpg?raw=true",
             "Social": {
