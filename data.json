@@ -94,6 +94,12 @@
       "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Konfx-logo.png?raw=true",
       "Link": "http://www.konfx.io/",
       "Category":""
+    },
+    {
+      "Name": "Sapien",
+      "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/SAPIEN.png?raw=true",
+      "Link": "https://www.sapien.com/",
+      "Category": ""
     }
 
   ],
