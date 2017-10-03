@@ -117,7 +117,7 @@
           "Title": "Keynote: Angel Calvo - IT Transformation, PowerShell State and Futures",
           "Speaker": {
             "Name": "Angel Calvo",
-            "Description": "Microsoft Director of Program Management for Azure Automation & Config Management - Community Lead for PowerShell OSS projects .",
+            "Description": "Director of Program Manager for Microsoft Azure Operations Management Suite (OMS). Angel is also the Community Product Lead for the PowerShell Open Source GitHub Projects:  http://github.com/powershell In his current role, Angel Calvo is responsible to drive the business and technology strategies, and leads the Program Management team responsible for delivering:  Azure OMS Configuration and Automation Services and technologies;  PowerShell and DSC on Linux and Windows; Windows Remote Management Protocol (WinRM); OpenSSH for Windows; and the automation Platform that enables IT Professionals, DevOps engineers and Cloud Service Providers to configure and manage: Azure Services, Windows, Linux, Hybrid Clouds and Data Center infrastructures. Angel is native from Madrid, Spain. Angel went to school to La Universidad Laboral de Toledo, Spain, and outside work Angel’s other passions are Scuba Diving, Photographic and Playing Guitar",
             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Angel.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/ANGELCALVOS"
