@@ -127,7 +127,7 @@
         {
           "SessionId": "Common2",
           "Time": "9:45 AM - 10:45 AM",
-          "Title": "Automate & Configure at scale with Azure Management Services",
+          "Title": "Automate & Configure at scale with Azure Management Services (Ravi Kiran Chintalapudi)",
           "Speaker": {
             "Name": "Michael Greene",
             "Description": "Microsoft Principal Program Manager, Azure Configuration and Automation Management System / PowerShell Language",
@@ -773,9 +773,9 @@
         {
           "SessionId": "MGT05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Breakout session",
+          "Title": "OMS Ask Me Anything",
           "Speaker": {
-            "Name": "",
+            "Name": "Ravi Kiran Chintalapudi",
             "Description": "",
             "ImageUrl": "",
             "Social": {
