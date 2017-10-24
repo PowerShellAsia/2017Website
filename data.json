@@ -390,13 +390,13 @@
         {
           "SessionId": "MGT04",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "DSC Scripting Challenge",
+          "Title": "Azure Stack: Securing the modern hybrid-cloud",
           "Speaker": {
-            "Name": "Matthew Hitchcock",
-            "Description": "Matt is a Former PowerShell MVP and is a driving force behind the PowerShell Asia Conference ",
-            "ImageUrl": "~/images/matthnew.jpg",
+            "Name": "Lee Holmes",
+            "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "https://twitter.com/Lee_Holmes"
             }
           }
         },
@@ -773,13 +773,13 @@
         {
           "SessionId": "MGT05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "OMS Ask Me Anything",
+          "Title": "Revoke-Obfuscation: PowerShell Obfuscation Detection using SCIENCE!",
           "Speaker": {
-            "Name": "Ravi Kiran Chintalapudi",
-            "Description": "Principal program manager on Azure security + operations management currently focusing on Update Management. Earlier worked on Azure Automation, Hybrid Cloud Management, System Center Orchestrator, System Center Essentials, SCVMM, SCCM",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/ravi.jpg?raw=true",
+            "Name": "Lee Holmes",
+            "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "https://twitter.com/Lee_Holmes"
             }
           }
         },
