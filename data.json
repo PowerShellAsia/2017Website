@@ -682,13 +682,13 @@
         {
           "SessionId": "SEC05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment",
+          "Title": "Revoke-Obfuscation: PowerShell Obfuscation Detection using SCIENCE!",
           "Speaker": {
-            "Name": "Raimund Andrée",
-            "Description": "Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/raimundandree"
+          "Name": "Lee Holmes",
+          "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
+          "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
+          "Social": {
+           "Twitter": "https://twitter.com/Lee_Holmes"
             }
           }
         },
@@ -773,13 +773,13 @@
         {
           "SessionId": "MGT05",
           "Time": "4:00 PM - 5:00 PM",
-          "Title": "Revoke-Obfuscation: PowerShell Obfuscation Detection using SCIENCE!",
+          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment",
           "Speaker": {
-            "Name": "Lee Holmes",
-            "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
+            "Name": "Raimund Andrée",
+            "Description": "Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
             "Social": {
-              "Twitter": "https://twitter.com/Lee_Holmes"
+              "Twitter": "http://www.twitter.com/raimundandree"
             }
           }
         },
