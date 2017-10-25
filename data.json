@@ -297,13 +297,13 @@
         {
           "SessionId": "SEC04",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "Hybrid Lab Automation with Automated Lab",
-          "Speaker":{
-            "Name": "Jan-Hendrik Peters",
-            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/NyanHP"
+          "Title": "Azure Stack: Securing the modern hybrid-cloud",
+          "Speaker": {
+             "Name": "Lee Holmes",
+             "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
+             "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
+             "Social": {
+               "Twitter": "https://twitter.com/Lee_Holmes"
             }
           }
         },
@@ -390,13 +390,13 @@
         {
           "SessionId": "MGT04",
           "Time": "5:15 PM - 6:15 PM",
-          "Title": "Azure Stack: Securing the modern hybrid-cloud",
+          "Title": "Hybrid Lab Automation with Automated Lab",
           "Speaker": {
-            "Name": "Lee Holmes",
-            "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
+            "Name": "Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true",
             "Social": {
-              "Twitter": "https://twitter.com/Lee_Holmes"
+              "Twitter": "http://www.twitter.com/NyanHP"
             }
           }
         },
