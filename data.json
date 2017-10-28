@@ -73,8 +73,16 @@
         "Blog": "http://altfo.wordpress.com",
         "Twitter": "http://www.twitter.com/altfo"
       }
+    },
+    {
+          "Name": "Amanda Debler",
+          "Description": "A Texan in Germany exploring the brave new containerized world after several great years of PowerShell & Skype for Business. Skiing and needlework on the side",
+          "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Amanda.jpg?raw=true",
+          "Social": {
+            "Blog": "https://mandie.net/",
+            "Twitter": "http://www.twitter.com/texmandie"
     }
-        
+  }   
   ],
   "Sponsors": [
     {
