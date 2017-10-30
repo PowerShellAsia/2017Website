@@ -10,11 +10,7 @@
     "Facebook": "https://www.facebook.com/singaporepowershell/",
     "Website": "mailto:get-help@psconf.org"
   },
-  "Callout": {
-    "Text": "Register Now!",
-    "Link": "https://www.eventbrite.sg/e/powershell-conference-asia-2017-tickets-35782546560",
-    "Type": "warning"
-  },
+  
   "Campaigns": [
     {
       "Text": "Survey",
